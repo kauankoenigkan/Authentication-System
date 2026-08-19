@@ -61,10 +61,10 @@ CREATE TABLE clientes (
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/kauankoenigkan/Authentication-System.git
 
 # 2. Acesse a pasta do projeto
-cd seu-repositorio
+cd Authentication-System
 ```
 
 ### Configuração do Banco de Dados
